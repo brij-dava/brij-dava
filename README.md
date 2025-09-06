@@ -22,10 +22,26 @@
 ![Operating System](https://img.shields.io/badge/OS-2962FF?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+--- 
+
+## 📊 GitHub Stats
+![brij's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brij dava)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brij-dava)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/brij7765)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brijpateldava7@gmail.com)
+
+---
+
+
+
