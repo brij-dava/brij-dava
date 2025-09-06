@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C]
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=tree&logoColor=white)
