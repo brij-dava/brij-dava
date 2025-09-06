@@ -7,10 +7,10 @@
 
 ## 🚀 About Me
 - 💻 Passionate developer exploring **Open Source technologies(OST)**
-- 🌱 Learned **Data Structures(DS)** and **Operating System (OS)**
-- 🎯 Currently learning **OOPs** and **DBMS (SQL)**
+- 🌱 Learned **DBMS (SQL)** and **Operating System (OS)**
+- 🎯 Currently learning **OOPs** and **Data Structures(DS)**
 - 🚀 Interested in **problem-solving, system design, and contributing to open-source**
-- 📫 Reach me at: brijpateldava7@gmail.com | [LinkedIn](#)
+- 📫 Reach me at: [brijpateldava7@gmail.com]
 
 ---
 
@@ -21,6 +21,11 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=tree&logoColor=white)
 ![Operating System](https://img.shields.io/badge/OS-2962FF?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brij dava)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brij-dava)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/brij7765)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brijpateldava7@gmail.com)
