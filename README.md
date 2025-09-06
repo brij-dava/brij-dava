@@ -25,9 +25,9 @@
 --- 
 
 ## 📊 GitHub Stats
-![brij's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+![brij's GitHub stats](https://github-readme-stats.vercel.app/api?username=brij-dava&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brij-dava&layout=compact&theme=tokyonight)
 
 ---
 
