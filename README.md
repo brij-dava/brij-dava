@@ -1,5 +1,7 @@
-## Hi there 👋
 
+# Hi there 👋, I'm brij dava
+
+⚡ Profile README powered with GitHub Actions, dynamic stats, and cool badges 
 <!--
 **brij-dava/brij-dava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
