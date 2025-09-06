@@ -15,12 +15,12 @@
 ---
 
 ## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=tree&logoColor=white)
-![Operating System](https://img.shields.io/badge/OS-2962FF?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=flat&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=flat&logo=tree&logoColor=white)
+![Operating System](https://img.shields.io/badge/OS-2962FF?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 
 --- 
 
@@ -37,14 +37,15 @@
 ---
 
 ## 🏆 Competitive Programming & Open Source
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/brij7765)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brij-dava)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/brij7765)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brij-dava)
 
 ---
 
 ## 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brijpateldava7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brij-dava-b5b6b2310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brijpateldava7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brij-dava-b5b6b2310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
 ---
 
 
