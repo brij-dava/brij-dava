@@ -39,6 +39,8 @@
 ## 🏆 Competitive Programming & Open Source
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/brij7765)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/brij-dava)
+[![Striver](https://img.shields.io/badge/Striver%20(TUF)-FF5733?style=flat&logoColor=white)](https://takeuforward.org/brij8240)
+
 
 ---
 
