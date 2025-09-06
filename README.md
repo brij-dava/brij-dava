@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 💻 Passionate developer exploring **Open Source technologies**
-- 🌱 Learned **Data Structures** and **Operating System (OST)**
-- 🎯 Currently learning **OOP** and **DBMS (SQL)**
+- 💻 Passionate developer exploring **Open Source technologies(OST)**
+- 🌱 Learned **Data Structures(DS)** and **Operating System (OS)**
+- 🎯 Currently learning **OOPs** and **DBMS (SQL)**
 - 🚀 Interested in **problem-solving, system design, and contributing to open-source**
-- 📫 Reach me at: [your email] | [LinkedIn](#)
+- 📫 Reach me at: [brijpateldava7@gmail.com] | [LinkedIn](#)
 
 ---
