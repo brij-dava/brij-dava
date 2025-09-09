@@ -31,10 +31,6 @@
 
 ---
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ## 🏆 Competitive Programming & Open Source
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/brij7765)
